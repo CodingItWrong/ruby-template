@@ -24,6 +24,10 @@ Style/Documentation:
 Style/StringLiterals:
   EnforcedStyle: double_quotes
 
+# Don't require thousand separators
+Style/NumericLiterals:
+  Enabled: false
+
 # Require trailing commas for multiline arrays/hashes
 Style/TrailingCommaInLiteral:
   EnforcedStyleForMultiline: comma
