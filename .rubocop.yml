@@ -31,3 +31,7 @@ Style/NumericLiterals:
 # Require trailing commas for multiline arrays/hashes
 Style/TrailingCommaInLiteral:
   EnforcedStyleForMultiline: comma
+
+# Allow but do not require modifier usage of if/unless
+Style/IfUnlessModifier:
+  Enabled: false
