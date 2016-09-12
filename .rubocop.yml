@@ -20,10 +20,6 @@ Style/BlockDelimiters:
 Style/Documentation:
   Enabled: false
 
-# Always use double-quoted string literals
-Style/StringLiterals:
-  EnforcedStyle: double_quotes
-
 # Don't require thousand separators
 Style/NumericLiterals:
   Enabled: false
