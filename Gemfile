@@ -2,7 +2,7 @@
 source 'https://rubygems.org'
 
 # Specify a ruby version
-# ruby '2.3.1'
+# ruby '2.4.0'
 
 gem 'rspec'
 gem 'pry'
